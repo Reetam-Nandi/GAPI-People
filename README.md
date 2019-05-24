@@ -1,2 +1,2 @@
 # GAPI-People
-Lambda Compatible Google People API 
+AWS Lambda Compatible Google People API 
