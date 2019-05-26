@@ -7,8 +7,7 @@ def lambda_handler(event, context):
                         refresh_token=event['refresh_token'],
                         client_id=event['client_id'],
                         token_uri=event['token_uri'],
-                        client_secret=event['client_secret'],
-                        scopes=event['scope'])
+                        client_secret=event['client_secret'])
     service = build('people', 'v1', credentials=creds, cache_discovery=False)
     event = { 
         "etag":"%s"%event['etag'],

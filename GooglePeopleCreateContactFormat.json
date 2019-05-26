@@ -1,0 +1,14 @@
+{
+  "access_token": "",
+  "expires_in": 3600,
+  "client_id": "",
+  "client_secret": "",
+  "refresh_token": "",
+  "scope": "https://www.googleapis.com/auth/contacts",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "token_type": "Bearer",
+  "name": "TEMPTESTING123",
+  "number": "9988776655",
+  "udkey": "Status",
+  "udval": "Processing"
+}
