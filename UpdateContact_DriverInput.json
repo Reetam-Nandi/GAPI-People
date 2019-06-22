@@ -1,0 +1,9 @@
+{
+    "cid": "Enter Resource Name for Contact (people/xyz)",
+    "filtermask": "Enter Field Names to retrieve",
+    "nname": "Enter Nickname here",
+    "oname": "Enter Organization Name",
+    "odesc": "Enter Organization Description",
+    "odept": "Enter Organization Department",
+    "etag": "Enter etag here"
+  }
