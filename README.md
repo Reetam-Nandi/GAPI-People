@@ -29,7 +29,7 @@ The Flow and Setup is as follows
 
 1. [Function-library](https://github.com/Reetam-Nandi/GAPI-People/tree/master/Function-library "Function-library") is the Library implementation of the Lambda Compatible functions.
 
-1. [Function-split](https://github.com/Reetam-Nandi/GAPI-People/tree/master/Function-library "Function-library") is the normal
+1. [Function-split](https://github.com/Reetam-Nandi/GAPI-People/tree/master/Function-library "Function-split") is the normal
 Chained-Function(Core + Driver) implementation of the Lambda Compatible functions.
 
 ## Resources Used
