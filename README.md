@@ -25,6 +25,13 @@ The Flow and Setup is as follows
 1. __AWS Lambda Setup__
 1. __AWS API Gateway Setup__  
 
+## Guide
+
+1. [Function-library](https://github.com/Reetam-Nandi/GAPI-People/tree/master/Function-library "Function-library") is the Library implementation of the Lambda Compatible functions.
+
+1. [Function-split](https://github.com/Reetam-Nandi/GAPI-People/tree/master/Function-library "Function-split") is the normal
+Chained-Function(Core + Driver) implementation of the Lambda Compatible functions.
+
 ## Resources Used
 
 1. [Google API Explorer](https://developers.google.com/apis-explorer/#search/people/people/v1/ "API Explorer")
