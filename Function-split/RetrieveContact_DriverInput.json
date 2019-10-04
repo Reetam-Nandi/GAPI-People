@@ -1,0 +1,6 @@
+{
+    "contactid": "people/me",
+    "totalresults": 2000,
+    "sort": "FIRST_NAME_ASCENDING",
+    "fields": "names"
+  }

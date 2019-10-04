@@ -1,0 +1,9 @@
+{
+    "contactid": "Enter Resource Name for Contact (people/xyz)",
+    "filtermask": "nicknames,organizations",
+    "nname": "Enter Nickname here",
+    "oname": "Enter Organization Name",
+    "odesc": "Enter Organization Description",
+    "odept": "Enter Organization Department",
+    "etag": "Enter etag here"
+  }
